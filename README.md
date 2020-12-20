@@ -1,15 +1,14 @@
-
 ![Pratyay Rudra Banner](https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/GitHub%20Banner.png)
 
 <h1 align="center">👋 Hi there! I'm Pratyay Rudra</h1>
 <h3 align="center">📝 Summary</h3>
 <p align="center">
 A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API designing and developing, NodeJS and database development. I am a self-motivated, hardworking developer who specializes in cloud technologies, and web applications.
-</p> 
+</p>
 
 <h3 align="center">🤵 About Me</h3>
 
-<img align="right" alt="GIF" width="200px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
+<img align="right" alt="GIF" width="100px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
 
 - 🏛️ I'm an **Engineer** (B.Tech Information Technology)
 - 🎓 I'm currently a student at **RCCIIT**
@@ -23,10 +22,11 @@ A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API desig
 
 <p>
 
-|1️⃣ **Web Application/Full Stack Development**|2️⃣ **HTML, CSS, JavaScript, NodeJS, Python** |
-|:--|:--|
-|3️⃣ **API Designing, Development and Maintenance**|4️⃣ **Database Development (SQL, NoSQL)** |
-|5️⃣ **Cloud Architecture and System Deployment**|6️⃣ **Problem Solving in a Team and a Fast Learner**|
+| 1️⃣ **Web Application/Full Stack Development**     | 2️⃣ **HTML, CSS, JavaScript, NodeJS, Python**        |
+| :------------------------------------------------ | :-------------------------------------------------- |
+| 3️⃣ **API Designing, Development and Maintenance** | 4️⃣ **Database Development (SQL, NoSQL)**            |
+| 5️⃣ **Cloud Architecture and System Deployment**   | 6️⃣ **Problem Solving in a Team and a Fast Learner** |
+
 </p>
 <p align="center">
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-html-5-50.png" width="55" height="55"/> 
@@ -51,8 +51,8 @@ A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API desig
 </p>
 <h3 align="center">🐱 GitHub Stats</h3>
 
-|![Pratyay's github stats](https://github-readme-stats.vercel.app/api?username=pratyayrudra&theme=dracula&show_icons=true&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyayrudra&layout=compact&theme=dracula)|
-|--|--|
+| ![Pratyay's github stats](https://github-readme-stats.vercel.app/api?username=pratyayrudra&theme=dracula&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyayrudra&layout=compact&theme=dracula) |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 
 <h3 align="center">💬 Contact Me</h3>
 <p align="center">
