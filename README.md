@@ -8,7 +8,7 @@ A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API desig
 
 <h3 align="center">🤵 About Me</h3>
 
-<img align="right" alt="GIF" width="150px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
+<img align="right" alt="GIF" width="100px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
 
 - 🏛️ I'm an **Engineer** (B.Tech Information Technology)
 - 🎓 I'm currently a student at **RCCIIT**
