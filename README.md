@@ -3,18 +3,17 @@
 <h1 align="center">👋 Hi there! I'm Pratyay Rudra</h1>
 <h3 align="center">📝 Summary</h3>
 <p align="center">
-A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API designing and developing, NodeJS and database development. I am a self-motivated, hardworking developer who specializes in cloud technologies, and web applications.
+  I am a <b>DevOps Engineer</b> with expertise in cloud (AWS and GCP). I am also familiar with containerization using Docker, Kubernetes, GIT Deployments, and CI/CD (ArgoCD, GitHub, GitLab). 
 </p>
 
 <h3 align="center">🤵 About Me</h3>
 
 <img align="right" alt="GIF" width="100px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
 
+- 💻 I'm working as a **DevOps Engineer** at **Trell**
 - 🏛️ I'm an **Engineer** (B.Tech Information Technology)
-- 🎓 I'm currently a student at **RCCIIT**
-- 🏦 I'm working as a **Backend Intern**
-- 👨🏼‍💻 I use daily `.js`,` .ts`, `.html`, `.css`
-- 🌱 I’m currently learning **React** and **Azure**
+- 👨🏼‍💻 I use daily `AWS`, `GCP`, `K8s`, `CI/CD`
+- 🌱 I’m currently learning **Scalable System Designs** and **Fault Tolerant Architectures**
 - 😄 I'm **self motivated** and a **fast learner**
 - 💬 If you have any questions, just **ask me**<ul>
 
@@ -22,9 +21,9 @@ A <b>fullstack developer</b> with experience in HTML, CSS, JavaScript, API desig
 
 <p>
 
-| 1️⃣ **Web Application/Full Stack Development**     | 2️⃣ **HTML, CSS, JavaScript, NodeJS, Python**        |
+| 1️⃣ **AWS/GCP**     | 2️⃣ **Kubernetes**        |
 | :------------------------------------------------ | :-------------------------------------------------- |
-| 3️⃣ **API Designing, Development and Maintenance** | 4️⃣ **Database Development (SQL, NoSQL)**            |
+| 3️⃣ **ArgoCD, Jenkins, GitHub Actions, GitLab CI** | 4️⃣ **Scripting, Automation**            |
 | 5️⃣ **Cloud Architecture and System Deployment**   | 6️⃣ **Problem Solving in a Team and a Fast Learner** |
 
 </p>
