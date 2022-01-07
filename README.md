@@ -28,23 +28,20 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-html-5-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-css3-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-javascript-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-angularjs-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-react-native-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-nodejs-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-json-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-mongodb-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-mysql-logo-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-amazon-web-services-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-azure-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-amazon-web-services-50.png" width="55" height="55"/>
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-kubernetes-50.png" width="55" height="55"/>
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-google-cloud-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-docker-50.png" width="55" height="55"/> 
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-heroku-50.png" width="55" height="55"/> 
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-github-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-gitlab-50.png" width="55" height="55"/> 
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-git-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-wordpress-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-woocommerce-50.png" width="55" height="55"/> 
-<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-docker-50.png" width="55" height="55"/>
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-html-5-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-css3-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-javascript-50.png" width="55" height="55"/>
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-nodejs-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-mongodb-50.png" width="55" height="55"/> 
+<img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-mysql-logo-50.png" width="55" height="55"/> 
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-console-50.png" width="55" height="55"/>
 <img src="https://github.com/pratyayrudra/pratyayrudra/raw/master/assets/icons/icons8-visual-studio-code-2019-50.png" width="55" height="55"/>
 </p>
