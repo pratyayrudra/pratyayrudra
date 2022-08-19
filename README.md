@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" width="100px" src="https://raw.githubusercontent.com/pratyayrudra/pratyayrudra/master/assets/eatsleepcoderepeat.webp" />
 
-- 💻 I'm working as a **DevOps Engineer** at **Trell**
+- 💻 I'm working as a **DevOps Engineer** at **Hike**
 - 🏛️ I'm an **Engineer** (B.Tech Information Technology)
 - 👨🏼‍💻 I use daily `AWS`, `GCP`, `K8s`, `CI/CD`
 - 🌱 I’m currently learning **Scalable System Designs** and **Fault Tolerant Architectures**
